@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.0",
+        "mpdf/mpdf": "^8.2",
+        "dompdf/dompdf": "^2.0",
+        "voku/portable-utf8": "^6.0"
+    }
+}
